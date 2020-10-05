@@ -1,7 +1,7 @@
 require 'account'
 
 describe Account do 
-     let(:account) { described_class.new}
+    let(:account) { described_class.new}
 
     describe 'the instance of account' do
         it 'has a an initial balance' do
@@ -9,6 +9,13 @@ describe Account do
         end 
         it 'has the array of all transactions' do
          expect(account.transactions.length).to eq 0
+        end 
+    end 
+
+    describe '#deposit' do
+        it 'increases the deposit when money deposited into the account' do
+        account.deposit 100
+        expect(account.balance).to eq 100
         end 
     end 
 end 
