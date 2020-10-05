@@ -4,11 +4,13 @@
       "/Users/kristynacervenkova/Desktop/bank-tech-test/spec/account_spec.rb": {
         "lines": [
           1,
+          1,
+          1,
           null,
           1,
           4,
-          null,
-          null,
+          1,
+          1,
           null,
           null,
           1,
@@ -57,15 +59,6 @@
           null,
           null,
           null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
           1,
           1,
           null,
@@ -78,6 +71,41 @@
           null,
           1,
           1,
+          null,
+          null
+        ]
+      },
+      "/Users/kristynacervenkova/Desktop/bank-tech-test/lib/statement.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          4,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/kristynacervenkova/Desktop/bank-tech-test/lib/transaction.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          5,
+          5,
+          5,
+          5,
+          null,
+          null,
           null,
           null
         ]
@@ -98,25 +126,6 @@
           1,
           1,
           null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/kristynacervenkova/Desktop/bank-tech-test/lib/statement.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          null,
-          1,
-          4,
-          null,
-          null,
-          1,
-          0,
-          0,
-          0,
           null,
           null,
           null
@@ -148,24 +157,8 @@
           null,
           null
         ]
-      },
-      "/Users/kristynacervenkova/Desktop/bank-tech-test/lib/transaction.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          5,
-          5,
-          5,
-          5,
-          null,
-          null,
-          null,
-          null
-        ]
       }
     },
-    "timestamp": 1601909212
+    "timestamp": 1601910302
   }
 }

@@ -12,15 +12,6 @@ def deposit(money, date = Time.now.strftime('%d/, %m/, %Y'))
     
 end 
 
-
-# def print_statement(money, trans_type, time = Time.now)
-#     date = time.strftime('%d/%m/%Y')
-# if trans_type == 'deposit'
-#     @statement.deposit(money, @balance, @date)
-# elsif type == 'withdraw'
-#     @statement.withdraw(money, @balance, @date)
-# end 
-# end 
 def withdraw(money)
     decrease_balance(money)
 end 
