@@ -7,13 +7,14 @@ def initialize(statement = Statement.new)
     @statement = statement
 end 
 
-def deposit(money, date = Time.now.strftime('%d/, %m/, %Y'))
+def deposit(money)
      increase_balance(money)
     
 end 
 
 def withdraw(money)
     decrease_balance(money)
+    
 end 
 
 private
@@ -25,4 +26,5 @@ def increase_balance(money)
 def decrease_balance(money)
     @balance -= money
     end 
+    
 end 

@@ -9,7 +9,7 @@ describe Statement do
     end
 
     describe '#print_statement' do
-    it 'prints the statement' do 
+    it 'prints out the statement' do 
         output = "date || credit || debit || balance\n"
     end 
 
