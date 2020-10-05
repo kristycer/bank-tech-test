@@ -16,6 +16,9 @@ I want to be able to make a deposit.
 As a user so I can  withdraw money from my account,
 I want to be able to make a withdrawal.
 
+As a user so I can keep tract of my finances,
+I want to be able to see the balance of my account.
+
 # Technology used
 
 - Ruby

@@ -13,6 +13,7 @@ describe Account do
     end 
 
     describe '#deposit' do
+    
         it 'increases the deposit when money deposited into the account' do
         account.deposit 100
         expect(account.balance).to eq 100
@@ -20,8 +21,11 @@ describe Account do
     end 
 
     describe '#withdraw' do
+    before(:each) do
+        account.deposit(100)
+    end 
         it 'reduces the balance when money withdrawed' do
-        account.deposit 100
+     
         account.withdraw 50
         expect(account.balance).to eq 50
         end 

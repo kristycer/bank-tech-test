@@ -18,6 +18,7 @@
           null,
           null,
           1,
+          null,
           1,
           1,
           1,
@@ -27,6 +28,9 @@
           1,
           1,
           1,
+          null,
+          1,
+          null,
           1,
           1,
           null,
@@ -65,8 +69,34 @@
           null,
           null
         ]
+      },
+      "/Users/kristynacervenkova/Desktop/bank-tech-test/spec/statement_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/kristynacervenkova/Desktop/bank-tech-test/lib/statement.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1601900919
+    "timestamp": 1601903392
   }
 }
