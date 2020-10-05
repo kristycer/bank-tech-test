@@ -8,6 +8,10 @@ Week 10 of Makers Academy - tech test to build a banking application.
 - Account statement (date, amount, balance) printing.
 - Data be kept in memory 
 
+# User stories 
+
+As a user so I can  deposit money into my account,
+I want to be able to make a deposit.
 
 # Technology used
 
@@ -16,6 +20,7 @@ Week 10 of Makers Academy - tech test to build a banking application.
 - Sinatra
 - Capybara
 - Rubocop
+- Simplecov
 
 
 # Setup
