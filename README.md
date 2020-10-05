@@ -10,6 +10,7 @@ Week 10 of Makers Academy - tech test to build a banking application.
 
 # User stories 
 
+``` 
 As a user so I can  deposit money into my account,
 I want to be able to make a deposit.
 
@@ -18,6 +19,8 @@ I want to be able to make a withdrawal.
 
 As a user so I can keep tract of my finances,
 I want to be able to see the balance of my account.
+```
+
 
 # Technology used
 
