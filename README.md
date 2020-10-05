@@ -13,11 +13,14 @@ Week 10 Makers Academy - tech test to build a banking application.
 
 # Setup
 
+``` 
 $ git clone https://github.com/kristycer/bank-tech-test.git
 $ cd bank-tech-test
 $ bundle
 $ irb
-> require './lib/account.rb'
+> require ‘._lib_account.rb’  
+
+```
 
 # Output table
 
