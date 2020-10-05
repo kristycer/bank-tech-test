@@ -6,5 +6,12 @@ describe Statement do
         it 'has an array of all transactions' do
             expect(statement.transactions.length).to eq 0
         end 
+    end
+
+    describe '#print_statement' do
+    it 'prints the statement' do 
+        output = "date || credit || debit || balance\n"
     end 
+
+end 
 end 
