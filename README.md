@@ -13,6 +13,9 @@ Week 10 of Makers Academy - tech test to build a banking application.
 As a user so I can  deposit money into my account,
 I want to be able to make a deposit.
 
+As a user so I can  withdraw money from my account,
+I want to be able to make a withdrawal.
+
 # Technology used
 
 - Ruby
