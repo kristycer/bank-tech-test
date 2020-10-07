@@ -43,6 +43,12 @@ $ irb
 
 ```
 
+
+``` 
+to run the testing library
+$ rspec
+```
+
 # Output table
 
 ``` 

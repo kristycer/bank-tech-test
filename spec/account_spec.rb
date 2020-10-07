@@ -3,9 +3,9 @@ require 'statement'
 require 'transaction'
 
 describe Account do 
-    let(:account) { described_class.new}
-     let(:statement) { double(:statement) }
-     let(:transaction) { double(:transaction) }
+    let(:account) { Account.new }
+    let(:statement) { double(:statement) }
+    let(:transaction) { double(:transaction) }
 
 
     describe 'the instance of account' do
